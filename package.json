@@ -12,7 +12,5 @@
   "dependencies": {
     "binance-api-node": "^0.12.7",
     "ws": "^8.16.0"
-  },
-  "devDependencies": {},
-  "description": ""
+  }
 }
